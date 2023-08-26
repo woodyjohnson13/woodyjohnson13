@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A passionate frontend and python developer.</h3>
-<img alighn='center' alt='Coding' width='400'src='https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif'>
+<img alighn='center' alt='Coding' width='1000'src='https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif'>
 
 
 
