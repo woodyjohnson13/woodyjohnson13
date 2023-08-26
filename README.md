@@ -1,6 +1,6 @@
+<img alighn='center'   alt='Coding' width='800'src='https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376'>
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A passionate frontend and python developer.</h3>
-<img alighn='center'   alt='Coding' width='800'src='https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376'>
 
 
 <h3 align="left">Languages and Tools:</h3>
