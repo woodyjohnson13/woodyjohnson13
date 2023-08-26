@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A passionate frontend and python developer.</h3>
-
+<img alighn='right'   alt='Coding' width='400'src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479z2dvg4gj1m1vjx9ortodqrrc93c56kz51iv6f3d&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 
 
 <h3 align="left">Languages and Tools:</h3>
